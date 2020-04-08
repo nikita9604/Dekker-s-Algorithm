@@ -1,2 +1,2 @@
 # Dekker-s-Algorithm
-Dekker's Algorithm implemented using Scilab
+Dekker's Algorithm for Process Synchronization implemented using Scilab

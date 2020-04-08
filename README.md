@@ -1,2 +1,2 @@
 # Dekker-s-Algorithm
-Dekker's Algorithm using Scilab
+Dekker's Algorithm implemented using Scilab
